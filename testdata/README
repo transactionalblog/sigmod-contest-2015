@@ -1,0 +1,6 @@
+To reconstruct data_medium.test, run:
+
+```
+cat data_medium.tar.xz.part_* | tar -xJf
+```
+
